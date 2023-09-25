@@ -1,0 +1,10 @@
+.main-features-container .main-cards-container {
+  display: flex;
+  flex-wrap: wrap;
+
+  margin: 0 auto;
+  width: 940px;
+}
+.main-plans-container .plans-cards-slider {
+  justify-content: center;
+}
