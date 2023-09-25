@@ -157,7 +157,7 @@ main {
 }
 .main-tables-container {
   display: flex;
-  overflow-x: scroll;
+  overflow-x: auto;
   overscroll-behavior-x: contain;
   scroll-snap-type: x proximity;
 }
@@ -427,7 +427,7 @@ main {
 
   height: 288px;
 
-  overflow-x: scroll;
+  overflow-x: auto;
   overscroll-behavior-x: contain;
   scroll-snap-type: x proximity;
 }
